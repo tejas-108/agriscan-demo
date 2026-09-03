@@ -1,4 +1,4 @@
-opencv-python-headless
 ultralytics
-pillow
+opencv-python-headless
 pandas
+pillow
